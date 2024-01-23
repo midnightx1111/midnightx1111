@@ -1,0 +1,6 @@
+- 👋 Heya! I’m @midnightx1111
+- 👀 I’m interested in make games and learn javascript
+- 🌱 I’m currently learning roblox luau
+- 💞️ I’m looking to collaborate on currently no one
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: No fun facts today >:)
