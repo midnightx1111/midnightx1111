@@ -1,8 +1,8 @@
 <h3 align="center">maybe future developer from Russia</h3>
 
-- 🔭 I’m currently working on **A Honored Time**
+- 🔭 I’m currently working on **NOTHING**
 
-- 🌱 I’m currently learning **roblox LUAU**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **currently no one**
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://ahonoredone-portfolio.neocities.org/](https://ahonoredone-portfolio.neocities.org/)
 
-- 💬 wanna learn next **javascript(not html version), html, css**
+- 💬 wanna learn next **javascript, html, css**
 
 - 📫 How to reach me **okej17032@gmail.com (probably wont answer)**
 
