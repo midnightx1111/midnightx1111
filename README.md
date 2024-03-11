@@ -2,15 +2,11 @@
 
 - 🔭 I’m currently working on **NOTHING**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **currently no one**
 
 - 🤝 I’m looking for help with **nothing, ig**
-
-- 👨‍💻 All of my projects are available at [https://ahonoredone-portfolio.neocities.org/](https://ahonoredone-portfolio.neocities.org/)
-
-- 📝 I regularly write articles on [https://ahonoredone-portfolio.neocities.org/](https://ahonoredone-portfolio.neocities.org/)
 
 - 💬 wanna learn next **javascript, html, css**
 
