@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **NOTHING**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **ROBLOX LUAU and PYTHON**
 
 - 👯 I’m looking to collaborate on **currently no one**
 
